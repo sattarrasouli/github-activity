@@ -11,6 +11,7 @@ A Command-Line Interface (CLI) tool to fetch and display recent activity of a Gi
   - Pull requests, issue comments, and releases
   - Repository forking and watching
 - Graceful error handling for rate limits or invalid users.
+https://roadmap.sh/projects/github-user-activity
 
 ## Installation
 
