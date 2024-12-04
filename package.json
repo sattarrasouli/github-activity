@@ -1,0 +1,25 @@
+{
+  "name": "github-activity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sattarrasouli/github-activity.git"
+  },
+  "keywords": [
+    "githubActivity"
+  ],
+  "author": "sattar rasouli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sattarrasouli/github-activity/issues"
+  },
+  "homepage": "https://github.com/sattarrasouli/github-activity#readme",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
